@@ -6,16 +6,27 @@
     padding-top: 20px;
 }
 
+.breadcrumb {
+
+}
+
 .jumbotron {
     text-align: center;
     background-image: url("Img/jumbotron_back.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+
 }
 
 h2 {
     color: blue;
     text-align: center;
+
+}
+
+.gallery {
+    text-align: center;
+    height: 250px;
 }
 
 
