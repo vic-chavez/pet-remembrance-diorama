@@ -1,0 +1,29 @@
+.breadcrumb {
+
+}
+
+.jumbotron {
+    text-align: center;
+    background-image: url("../Img/jumbotron_back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+h2 {
+    color: #6c78f5;
+    text-align: center;
+
+}
+
+.gallery {
+    text-align: center;
+
+}
+
+h3 {
+    color: #a8715b;
+    text-align: center;
+}
+
+
