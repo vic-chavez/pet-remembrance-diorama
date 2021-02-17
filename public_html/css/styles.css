@@ -6,8 +6,11 @@
     text-align: center;
     background-image: url("../Img/jumbotron_back.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
+}
 
+.logo {
+    height: 275px;
+    width: 275px;
 }
 
 h2 {
