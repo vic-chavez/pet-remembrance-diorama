@@ -16,12 +16,10 @@
 h2 {
     color: #6c78f5;
     text-align: center;
-
 }
 
 .gallery {
     text-align: center;
-
 }
 
 h3 {
@@ -29,3 +27,8 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    text-align: center;
+    color: #f59d78;
+
+}
