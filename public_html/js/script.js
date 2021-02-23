@@ -37,9 +37,8 @@ $(document).ready(function () {
                 type: "POST",
                 url: $("#contact").attr('action'),
                 success: (ajaxOutput) => {
-                    $("output-area").css("display","")
-                    $("output-area").html(ajaxOutput)
-
+                    $("#output-area").css("display","")
+                    $("#output-area").html(ajaxOutput)
                     if($(".alert-success" >= 1)) {
                         $("#contact")[0].reset()
                     }
